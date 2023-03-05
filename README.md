@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here you can find some of my projects I've been working on.
 
 <!--
 **TeemuStew/TeemuStew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
