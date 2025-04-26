@@ -1,6 +1,7 @@
 ### Here you can find some of my projects I've been working on.
 - Expense-tracker: Website for tracking and managing finances. Frontend made with React and backend with Node.js
-- Reddit-deleter: Python script that uses Reddit API to delete all posts and comments from Reddit Account automatically. 
+- Reddit deleter: Python script that uses Reddit API to delete all posts and comments from Reddit Account automatically.
+- Steam profile viewer: A web application that allows users to view Steam profile information, Steam levels, top played games.
 
 <!--
 **TeemuStew/TeemuStew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
